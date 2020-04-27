@@ -1,9 +1,9 @@
-# golden_minuuu_btt_preset
+# Golden_minuuu_BTT_Preset
 <p align="center">
 <img width="400px" src="https://i.imgur.com/kyS3DFB.png"/>
 </p>
 
-# What is the 'golden_minuuu_btt_preset
+# What is the "Golden_minuuu_BTT_Preset"
 It is based on the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
 Thanks for you, golden :)
 
