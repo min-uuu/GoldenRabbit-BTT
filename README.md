@@ -19,6 +19,22 @@ I hope you use this with happy.
 
 
 # Preview
+__Main strip__
+![main](https://i.imgur.com/fTnqyIH.png)
+There are the\
+__esc key, Player control, App swicher, Finder button\
+Mute button, time&date, Weather, Battery, Spot light, Siri__
+
+
+__Option strip__
+![option](https://i.imgur.com/IhXKAmy.png)
+There are the __Coustom app keys, Window sizers__\
+* You can coustmize the 'coustom app keys' as your favorite.
+
+__Control strip__
+![control](https://i.imgur.com/8V2e2DB.png)
+There are the __Bright Slider, Volium Slider, Look button, Sleep button\
+Two tyes of screen shot button, Keybord Backlight buttons__
 
 
 
