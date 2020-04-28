@@ -26,8 +26,8 @@ I hope you use this with happy.
 ### __Main strip__
 ![main](https://i.imgur.com/fTnqyIH.png)
 There are the\
-__esc key, Player control, App swicher, Finder button\
-Mute button, time&date, Weather, Battery, Spot light, Siri__
+__esc key, Player control, App swicher, Finder button, Mute button\
+Date&Time, Weather, Battery, Spot light, Siri__
 
 
 
@@ -35,7 +35,7 @@ Mute button, time&date, Weather, Battery, Spot light, Siri__
 ### __Option strip__
 ![option](https://i.imgur.com/IhXKAmy.png)
 There are the __Coustom app keys, Window sizers__
-* You can coustmize the 'coustom app keys' as your favorite.
+* You can coustmize the 'coustom app keys' as your favor.
 
 
 
