@@ -1,9 +1,9 @@
-# GoldenRabit-BTT
+# GoldenRabbit-BTT
 <p align="center">
 <img width="400px" src="https://i.imgur.com/kyS3DFB.png"/>
 </p>
 
-## What is the "GoldenRabit-BTT"
+## What is the "GoldenRabbit-BTT"
 It is motivated on the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
 Thanks for you, Golden :)
 
@@ -51,7 +51,7 @@ Keybord Backlight buttons, Window swicher__
 ## How can I use this preset??
 1. Click latest file from the left side 'Releases' session.
 
-2. Downlaod 'GoldenRabit.bttpreset' files from Assets session.
+2. Downlaod 'GoldenRabbit.bttpreset' files from Assets session.
      
 3. Improt this on your 'BTT'\
    Menubar(top of the screen) -> 'Presets' -> 'Import Preset' -> choose the file -> import
