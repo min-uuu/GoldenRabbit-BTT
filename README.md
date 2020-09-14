@@ -67,3 +67,6 @@ Keybord Backlight buttons, Window swicher__
 - 이 과정에서 golden chaos의 기능을 btt-widget으로 대체하여 프로세스에서 applescript를 모두 삭제하였습니다.\
   이를 통하여 프로세스의 스트레스가 크게 줄었습니다.\
   (golden chaos는 모든 기능을 매 초마다 applescript를 사용하여 구현하였지만 btt-widget은 시스템에서 해당 정보를 가져오는 구조이기에 스트레스가 덜합니다.)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-uuu%2FGoldenRabbit-BTT&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
