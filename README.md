@@ -1,10 +1,10 @@
-# Golden_minuuu_BTT_Preset
+# GoldenRabit-BTT
 <p align="center">
 <img width="400px" src="https://i.imgur.com/kyS3DFB.png"/>
 </p>
 
-## What is the "Golden_minuuu_BTT_Preset"
-It is based on the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
+## What is the "GoldenRabit-BTT"
+It is motivated on the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
 Thanks for you, golden :)
 
 
@@ -15,6 +15,9 @@ It uses '500MB' of your ram and worked too slowly.
 
 
 So I optimized and added more action.\
+All applescript is raplaced by the btt-widget and the settings are changed for performance.
+
+
 Then it uses only __'30MB'__ for run!!\
 There are lots of useful actions and it is very fest.\
 I hope you use this with happy.
