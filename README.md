@@ -35,7 +35,7 @@ The energy for run is very very small.
 ## Preview
 
 ### __Main strip__
-![main2](./images/main2.png)
+![main2](./images/main3.png)
 There are the\
 __esc key, Player control, App swicher, Finder button, Mute button\
 Date&Time, Weather, Battery__
@@ -68,5 +68,9 @@ Keybord Backlight buttons, Window swicher__
   이를 통하여 프로세스의 스트레스가 크게 줄었습니다.\
   (golden chaos는 모든 기능을 매 초마다 applescript를 사용하여 구현하였지만 btt-widget은 시스템에서 해당 정보를 가져오는 구조이기에 스트레스가 덜합니다.)
 
+### v2.1 (9/15)
+- 메인 스트립의 앱 스위처를 기존 6개에서 7개로 늘려 균형을 맞췄습니다.
+- 메인 스트립의 파인더와 뮤트 버튼의 크기를 재조정해 버튼을 누를 시에 겹치는 현상을 해결하였습니다.
+- 옵션 스트립의 밝기 조절 위젯과 볼륨 조절 위젯의 시인성이 더 좋은 노브로 변경하였습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-uuu%2FGoldenRabbit-BTT&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
