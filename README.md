@@ -9,9 +9,9 @@ Thanks for the original project, Golden :)
 
 
 This is the __MacBook's Touch Bar 'BTT Preset'__ that I customized.\
-The reason that I made this, is that the Golden Chaos preset is excellent functionality wise, but it was used a lot of memory, and was too slow for my liking.
+The reason that I made this, is that the Golden Chaos preset is excellent functionality wise, but it was using a lot of memory, and was too slow for my liking.
 
-I hope you that this will be of use for anybody out there that had the same thoughts.
+I hope that this will be of use for anybody out there that had the same thoughts.
 
 
 ## Optimization
