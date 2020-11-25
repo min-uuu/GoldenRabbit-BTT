@@ -51,7 +51,7 @@ Keybord Backlight buttons, Window swicher__
 ## How can I use this preset??
 1. Click the latest file from the 'Releases' section on the right side of this page. 
 
-2. Downlaod 'GoldenRabbit.bttpreset' file from the Assets session.
+2. Download 'GoldenRabbit.bttpreset' file from the Assets session.
      
 3. Import this on your 'BTT'\
    Menubar(top of the screen) -> 'Presets' -> 'Import Preset' -> choose the file -> Import
