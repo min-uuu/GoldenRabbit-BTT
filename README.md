@@ -4,31 +4,31 @@
 </p>
 
 ## What is the "GoldenRabbit-BTT"
-It is motivated on the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
-Thanks for you, Golden :)
+GoldenRabbit-BTT is inspired by the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
+Thanks for the original project, Golden :)
 
 
 This is the __MacBook's Touch Bar 'BTT Preset'__ that I customized.\
-The reason why I made this is that the golden chaos preset is very good preset, but it is tooo heavy.\
-It uses '500MB' of your ram and worked too slowly.
+The reason that I made this, is that the Golden Chaos preset is excellent functionality wise, but it was using a lot of memory, and was too slow for my liking.
 
-I hope you use this with happy.
+I hope that this will be of use for anybody out there that had the same thoughts.
 
 
 ## Optimization
 
-I optimized and added more action.\
-I Deleted unusing action.\
-All applescript is raplaced by the btt-widget so I can reduce the stress of the process.\
-And the settings are changed for performance.\
-Then the performance improved surprisingly.
+I optimized the preset and added more functionality.\
+I deleted functionality that I deemed unneeded/unused.\
+All applescript has been raplaced by the btt-widget so the stress of the process is reduced.\
+All the settings have been tweaked with performance in mind.\
+
+The result is amazing.
 
 ![rma usage](./images/ram.png)
-Then now it uses only about __'30MB'__ for run!!
+It only uses about __'30MB'__ to run!!
 
 ![energy usage](./images/energy.png)
-And ofcourse it uses energy like spotify(not playing) and iStat manus.
-The energy for run is very very small.
+It's energy consumption is similar to spotify(not playing) and iStat menus, meaning it won't noticably affect your battery life.
+
 
 
 
@@ -36,25 +36,25 @@ The energy for run is very very small.
 
 ### __Main strip__
 ![main2](./images/main3.png)
-There are the\
-__esc key, Player control, App swicher, Finder button, Mute button\
-Date&Time, Weather, Battery__
+Here we have the \
+__esc key, music control, App swicher, Finder button, Mute button\
+Date & Time, Weather and Battery__
 
 
 ### __Option strip__
 ![option](./images/option.png)
-There are the __Bright Slider, Volium Slider, Sleep button, Look button\
+Here are the __Brightness Slider, Volume Slider, Sleep button, Lock button\
 Keybord Backlight buttons, Window swicher__
 
 
 
 ## How can I use this preset??
-1. Click latest file from the left side 'Releases' session.
+1. Click the latest file from the 'Releases' section on the right side of this page. 
 
-2. Downlaod 'GoldenRabbit.bttpreset' files from Assets session.
+2. Download 'GoldenRabbit.bttpreset' file from the Assets session.
      
-3. Improt this on your 'BTT'\
-   Menubar(top of the screen) -> 'Presets' -> 'Import Preset' -> choose the file -> import
+3. Import this on your 'BTT'\
+   Menubar(top of the screen) -> 'Presets' -> 'Import Preset' -> choose the file -> Import
    
    
 ## 버전 기록
