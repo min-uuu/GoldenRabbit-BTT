@@ -3,7 +3,8 @@
 <img width="400px" src="https://i.imgur.com/kyS3DFB.png"/>
 </p>
 
-## What is the "GoldenRabbit-BTT"
+만약 당신이 한국인이라면 [여기](./README_for_korean.md)를 누르세요.
+## What is the "GoldenRabbit-BTT"?
 GoldenRabbit-BTT is inspired by the [Golden Choas preset](https://community.folivora.ai/t/goldenchaos-btt-the-complete-touch-bar-ui-replacement/1281)
 Thanks for the original project, Golden :)
 
@@ -35,7 +36,7 @@ It's energy consumption is similar to spotify(not playing) and iStat menus, mean
 ## Preview
 
 ### __Main strip__
-![main2](./images/main3.png)
+![main4](./images/main4.jpg)
 Here we have the \
 __esc key, music control, App swicher, Finder button, Mute button\
 Date & Time, Weather and Battery__
@@ -72,5 +73,8 @@ Keybord Backlight buttons, Window swicher__
 - 메인 스트립의 앱 스위처를 기존 6개에서 7개로 늘려 균형을 맞췄습니다.
 - 메인 스트립의 파인더와 뮤트 버튼의 크기를 재조정해 버튼을 누를 시에 겹치는 현상을 해결하였습니다.
 - 옵션 스트립의 밝기 조절 위젯과 볼륨 조절 위젯의 시인성이 더 좋은 노브로 변경하였습니다.
+
+### v2.2 (12/26)
+- 메인 스트립의 균형을 다시 맞추었습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-uuu%2FGoldenRabbit-BTT&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
