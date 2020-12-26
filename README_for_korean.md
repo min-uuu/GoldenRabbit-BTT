@@ -3,7 +3,9 @@
 > 당신의 터치바는 사실 쓸모가 있었다. \
 단지, 우리가 몰랐을 뿐이다. 
 
-![사진](https://camo.githubusercontent.com/ecfc7a900e426b3d4ac754899786a040bde309ee16d6db46bf33b5383748f2b9/68747470733a2f2f692e696d6775722e636f6d2f6b7953334446422e706e67)
+<p align="center">
+<img width="400px" src="https://i.imgur.com/kyS3DFB.png"/>
+</p>
 
 #
 
@@ -65,7 +67,7 @@ fn키를 쓰기가 불편해서?
 
 하지만 또 다른 문제점에 봉착하게 됩니다.
 
-![사진](https://github.com/min-uuu/GoldenRabbit-BTT/blob/master/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-12-26%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.36.37.png)
+![btt](/images/btt.png)
 
 터치바를 이쁘게 만들겠노라라고 다짐하고
 
@@ -115,7 +117,7 @@ BTT에서 가장 유명한 터치바 프리셋입니다.
 
 ## 소개합니다, GoldenRabbit
 
-![사진](https://github.com/min-uuu/GoldenRabbit-BTT/blob/master/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-12-26%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.14.07.png)
+![preview1](images/preview1.png)
 
 GoldenRabbit은 
 
@@ -125,7 +127,7 @@ Golden Chaos 프리셋에서 영감을 받아 만들어진 BTT Preset입니다.
 
 그리고 완벽한 최적화로 훨씬 더 적은 리소스를 차지합니다.
 
-![사진](https://github.com/min-uuu/GoldenRabbit-BTT/blob/master/images/3.png)
+![preview2](images/preview2.png)
 
 GoldenRabbit은 기능과 최적화, 두 마리의 토끼를 모두 잡은 프리셋입니다.
 
@@ -149,11 +151,11 @@ v2.0부터는 처음부터 새로운 프리셋을 작성하였습니다.
 
 500메가가 넘게 사용하던 램을 **30메가 이하** 로 낮췄습니다.
 
-![https://github.com/min-uuu/GoldenRabbit-BTT/raw/master/images/ram.png](https://github.com/min-uuu/GoldenRabbit-BTT/raw/master/images/ram.png)
+![ram](/images/ram.png)
 
 또한 배터리 사용량을 **노래를 틀지 않은 스포티파이**, **iStat Menus** 정도로 정말정말 많이 낮췄습니다.
 
-![https://github.com/min-uuu/GoldenRabbit-BTT/raw/master/images/energy.png](https://github.com/min-uuu/GoldenRabbit-BTT/raw/master/images/energy.png)
+![battery](/images/energy.png)
 
 아마 사용하시면서 배터리나 램 사용량 때문에 부담을 느끼실 일은 없다고 장담합니다.
 
@@ -161,7 +163,7 @@ v2.0부터는 처음부터 새로운 프리셋을 작성하였습니다.
 
 ### Main Strip
 
-![사진](https://github.com/min-uuu/GoldenRabbit-BTT/blob/master/images/main4.jpg?raw=true)
+![main](/images/main4.jpg)
 
 esc 버튼, 음악 컨트롤 센터, 앱 스위처, 음소거 버튼, 날짜&시간, 날씨, 배터리 표시 위젯이 배치되어 있습니다.
 
@@ -169,7 +171,7 @@ esc 버튼, 음악 컨트롤 센터, 앱 스위처, 음소거 버튼, 날짜&시
 
 ### Option Strip
 
-![사진](https://github.com/min-uuu/GoldenRabbit-BTT/blob/master/images/option.png)
+![option](/images/option.png)
 
 밝기 조절 슬라이더, 볼륨 조절 슬라이더, 잠자기, 잠금, 키보드 백라이트 조절, 데스트톱 이동 버튼이 배치되어 있습니다.
 

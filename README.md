@@ -34,6 +34,8 @@ It's energy consumption is similar to spotify(not playing) and iStat menus, mean
 
 
 ## Preview
+![preview1](images/preview1.png)
+![preview2](images/preview2.png)
 
 ### __Main strip__
 ![main4](./images/main4.jpg)
