@@ -64,7 +64,7 @@ Keybord Backlight buttons, Window swicher__
 - golden chaos 프리셋으로부터 수정되었기 때문에 해당 프리셋이 없으면 작동이 되지 않았습니다.
 
 ### v2.0
-- 프리셋을 새로 만들어 의존섣을 완전히 해결하였습니다.
+- 프리셋을 새로 만들어 의존성을 완전히 해결하였습니다.
 - 이 과정에서 golden chaos의 기능을 btt-widget으로 대체하여 프로세스에서 applescript를 모두 삭제하였습니다.\
   이를 통하여 프로세스의 스트레스가 크게 줄었습니다.\
   (golden chaos는 모든 기능을 매 초마다 applescript를 사용하여 구현하였지만 btt-widget은 시스템에서 해당 정보를 가져오는 구조이기에 스트레스가 덜합니다.)
