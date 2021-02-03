@@ -20,7 +20,7 @@ I hope that this will be of use for anybody out there that had the same thoughts
 I optimized the preset and added more functionality.\
 I deleted functionality that I deemed unneeded/unused.\
 All applescript has been raplaced by the btt-widget so the stress of the process is reduced.\
-All the settings have been tweaked with performance in mind.\
+All the settings have been tweaked with performance in mind.
 
 The result is amazing.
 
