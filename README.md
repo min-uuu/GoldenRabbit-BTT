@@ -79,4 +79,8 @@ Keybord Backlight buttons, Window swicher__
 ### v2.2 (12/26)
 - 메인 스트립의 균형을 다시 맞추었습니다.
 
+### v3.0 (2021/4/8)
+- 음량 조절, 밝기 조절 슬라이더를 추가했습니다.
+- 옵션 스트립을 삭제했습니다.
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-uuu%2FGoldenRabbit-BTT&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
